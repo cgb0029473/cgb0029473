@@ -1,62 +1,12 @@
-## H!!, I'm Brian 👋
+# 💫 About Me:
+Systems Engineer | Web Developer<br>🚀 Coding, Learning and more.
 
-### Systems Engineer | Web Developer
 
-🚀 **Coding, Learning** and more.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cgb0029473&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cgb0029473&theme=chartreuse-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cgb0029473&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### Skills 👨🏻‍💻
-
-<h3>Languages</h3>
-<p align="center">
-  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=flat"></a>
-  &emsp;
-  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=flat"></a>
-  &emsp;
-  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat"></a>
-  &emsp;
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a>
-  &emsp;
-  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff&style=flat"></a>
-  &emsp;
-  <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=fff&style=flat"></a>
-  &emsp;
-  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?logo=amazondynamodb&logoColor=fff&style=flat"></a>
-  &emsp;
-  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff&style=flat"></a>
-</p>
-
-<h3>Databases</h3>
-<p align="center">
-  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat"></a>
-  &emsp;
-  <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat"></a>
-  &emsp;
-  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat"></a>
-</p>
-
-<h3>Software and Tools</h3>
-<p align="center">
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat"></a>
-  &emsp;
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat"></a>
-  &emsp;
- <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat"></a>
-  &emsp;
-  <a href="#"><img alt="iTerm2" src="https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff&style=flat"></a>
-  &emsp;
-  <a href="#"><img alt="TablePlus" src="https://img.shields.io/badge/TablePlus-FC475D?logo=tableplus&logoColor=fff&style=flat"></a>
-  &emsp;
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat"></a>
-  &emsp;
-  <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat"></a>
-  &emsp;
- <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=flat"></a>
-</p>
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=cgb0029473&show_icons=true&count_private=true&theme=tokyonight&hide_border=true">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cgb0029473&layout=compact&hide_border=true&theme=tokyonight">
- </p>
- <br>
- 
- ### Portfolio
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
